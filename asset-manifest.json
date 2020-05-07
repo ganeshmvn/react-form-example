@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ganeshmvn/react-form-example.git/static/css/main.b80217f8.chunk.css",
-    "main.js": "/ganeshmvn/react-form-example.git/static/js/main.a93f9a28.chunk.js",
-    "main.js.map": "/ganeshmvn/react-form-example.git/static/js/main.a93f9a28.chunk.js.map",
-    "runtime-main.js": "/ganeshmvn/react-form-example.git/static/js/runtime-main.cbd66425.js",
-    "runtime-main.js.map": "/ganeshmvn/react-form-example.git/static/js/runtime-main.cbd66425.js.map",
-    "static/js/2.2960f45d.chunk.js": "/ganeshmvn/react-form-example.git/static/js/2.2960f45d.chunk.js",
-    "static/js/2.2960f45d.chunk.js.map": "/ganeshmvn/react-form-example.git/static/js/2.2960f45d.chunk.js.map",
-    "index.html": "/ganeshmvn/react-form-example.git/index.html",
-    "precache-manifest.7bc760e86fd184461b0546af3abd42a4.js": "/ganeshmvn/react-form-example.git/precache-manifest.7bc760e86fd184461b0546af3abd42a4.js",
-    "service-worker.js": "/ganeshmvn/react-form-example.git/service-worker.js",
-    "static/css/main.b80217f8.chunk.css.map": "/ganeshmvn/react-form-example.git/static/css/main.b80217f8.chunk.css.map",
-    "static/js/2.2960f45d.chunk.js.LICENSE.txt": "/ganeshmvn/react-form-example.git/static/js/2.2960f45d.chunk.js.LICENSE.txt"
+    "main.css": "/react-form-example/static/css/main.b80217f8.chunk.css",
+    "main.js": "/react-form-example/static/js/main.e31848ca.chunk.js",
+    "main.js.map": "/react-form-example/static/js/main.e31848ca.chunk.js.map",
+    "runtime-main.js": "/react-form-example/static/js/runtime-main.ee2bc2ec.js",
+    "runtime-main.js.map": "/react-form-example/static/js/runtime-main.ee2bc2ec.js.map",
+    "static/js/2.56fd6660.chunk.js": "/react-form-example/static/js/2.56fd6660.chunk.js",
+    "static/js/2.56fd6660.chunk.js.map": "/react-form-example/static/js/2.56fd6660.chunk.js.map",
+    "index.html": "/react-form-example/index.html",
+    "precache-manifest.7b48a4ff0b1b1364494cc8848b28b89a.js": "/react-form-example/precache-manifest.7b48a4ff0b1b1364494cc8848b28b89a.js",
+    "service-worker.js": "/react-form-example/service-worker.js",
+    "static/css/main.b80217f8.chunk.css.map": "/react-form-example/static/css/main.b80217f8.chunk.css.map",
+    "static/js/2.56fd6660.chunk.js.LICENSE.txt": "/react-form-example/static/js/2.56fd6660.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbd66425.js",
-    "static/js/2.2960f45d.chunk.js",
+    "static/js/runtime-main.ee2bc2ec.js",
+    "static/js/2.56fd6660.chunk.js",
     "static/css/main.b80217f8.chunk.css",
-    "static/js/main.a93f9a28.chunk.js"
+    "static/js/main.e31848ca.chunk.js"
   ]
 }
