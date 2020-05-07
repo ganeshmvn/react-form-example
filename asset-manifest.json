@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ganeshmvn/react-form-example.git/static/css/main.b80217f8.chunk.css",
+    "main.js": "/ganeshmvn/react-form-example.git/static/js/main.a93f9a28.chunk.js",
+    "main.js.map": "/ganeshmvn/react-form-example.git/static/js/main.a93f9a28.chunk.js.map",
+    "runtime-main.js": "/ganeshmvn/react-form-example.git/static/js/runtime-main.cbd66425.js",
+    "runtime-main.js.map": "/ganeshmvn/react-form-example.git/static/js/runtime-main.cbd66425.js.map",
+    "static/js/2.2960f45d.chunk.js": "/ganeshmvn/react-form-example.git/static/js/2.2960f45d.chunk.js",
+    "static/js/2.2960f45d.chunk.js.map": "/ganeshmvn/react-form-example.git/static/js/2.2960f45d.chunk.js.map",
+    "index.html": "/ganeshmvn/react-form-example.git/index.html",
+    "precache-manifest.7bc760e86fd184461b0546af3abd42a4.js": "/ganeshmvn/react-form-example.git/precache-manifest.7bc760e86fd184461b0546af3abd42a4.js",
+    "service-worker.js": "/ganeshmvn/react-form-example.git/service-worker.js",
+    "static/css/main.b80217f8.chunk.css.map": "/ganeshmvn/react-form-example.git/static/css/main.b80217f8.chunk.css.map",
+    "static/js/2.2960f45d.chunk.js.LICENSE.txt": "/ganeshmvn/react-form-example.git/static/js/2.2960f45d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbd66425.js",
+    "static/js/2.2960f45d.chunk.js",
+    "static/css/main.b80217f8.chunk.css",
+    "static/js/main.a93f9a28.chunk.js"
+  ]
+}
